@@ -24,6 +24,16 @@ I'm Baraa Samy, a Backend Developer specializing in Laravel with over 4 years of
 - 💡 **Open Source Contributions:**  
   Shared knowledge through reusable libraries and contributed to the developer community.  
 
+
+## 📊 GitHub Stats  
+[![Baraa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BaraaDev&show_icons=true&theme=radical)](https://github.com/BaraaDev)
+
+## 🔥 GitHub Streak  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaraaDev&theme=radical)](https://github.com/BaraaDev)
+
+## 🖥️ Most Used Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaDev&layout=compact&theme=radical)](https://github.com/BaraaDev)
+
 ---
 
 <!--
