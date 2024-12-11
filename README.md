@@ -13,4 +13,5 @@ I'm Baraa Samy, a Backend Developer specializing in Laravel with over 4 years of
 ## 🖥️ Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaraaDev&layout=compact&theme=radical)](https://github.com/BaraaDev)
 
-
+## Anurag's GitHub stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
